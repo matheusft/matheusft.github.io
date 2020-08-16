@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="40ecba9d-21a7-4746-a0d5-7c672552df34" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/placeholder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/CV_MatheusTorquato.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/CV_MatheusTorquato.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="4091" />
+    <option name="totalTimeSeconds" value="7351" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,5 +88,9 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="314" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.826/1440.-323.800.1257@0.23.1440.826" timestamp="1597608581825" />
+    <state x="497" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597615933919">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="497" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.826@0.23.1440.826" timestamp="1597615933919" />
   </component>
 </project>
