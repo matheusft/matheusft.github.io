@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="40ecba9d-21a7-4746-a0d5-7c672552df34" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf/CV_MatheusTorquato.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/pdf/CV_MatheusTorquato.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="623" />
+    <option name="totalTimeSeconds" value="4091" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
