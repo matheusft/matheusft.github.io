@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40ecba9d-21a7-4746-a0d5-7c672552df34" name="Default Changelist" comment="" />
+    <list default="true" id="40ecba9d-21a7-4746-a0d5-7c672552df34" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="8085" />
+    <option name="totalTimeSeconds" value="13205" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,23 +70,33 @@
       <option name="project" value="LOCAL" />
       <updated>1597608579593</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Typo fix">
+      <created>1597617222435</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597617222435</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Name update" />
     <MESSAGE value="Removing old folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removing old folder" />
+    <MESSAGE value="Typo fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Typo fix" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="290" y="36" key="CommitChangelistDialog2" timestamp="1597608578944">
+    <state x="290" y="36" key="CommitChangelistDialog2" timestamp="1597617222128">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="290" y="36" key="CommitChangelistDialog2/0.23.1440.826/1440.-323.800.1257@0.23.1440.826" timestamp="1597608578944" />
-    <state x="314" y="173" key="Vcs.Push.Dialog.v2" timestamp="1597608581825">
+    <state x="290" y="36" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1597617222128" />
+    <state x="314" y="173" key="Vcs.Push.Dialog.v2" timestamp="1597617223913">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="314" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.826/1440.-323.800.1257@0.23.1440.826" timestamp="1597608581825" />
+    <state x="314" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1597617223913" />
     <state x="497" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597615933919">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
