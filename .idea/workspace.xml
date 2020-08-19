@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="15985" />
+    <option name="totalTimeSeconds" value="16118" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -97,6 +97,10 @@
     </state>
     <state x="314" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.826/1440.-323.800.1257@0.23.1440.826" timestamp="1597608581825" />
     <state x="314" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1597617223913" />
+    <state x="391" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1597658428823">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="391" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.826/1440.-323.800.1257@0.23.1440.826" timestamp="1597658428823" />
     <state x="497" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597615933919">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
